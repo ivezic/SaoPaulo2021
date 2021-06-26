@@ -1,13 +1,13 @@
 # SaoPaulo2021
-Materials for the 2021 data science class at the University of Sao Paulo
+Materials for the 2021 data science class at the University of Sao Paulo (week 2)
 
-to clone: git clone git@github.com:ivezic/SaoPaulo2021.git
+To clone: git clone git@github.com:ivezic/SaoPaulo2021.git
 
 ---------------------------------------------------------------------- 
-=== Lectures (ipython notebooks, available from subdirectory notebooks/) ===     
+=== Lectures (ipython notebooks, available from subdirectory notebooks/ above) ===     
  
 
-*** Monday *** 
+Monday 
 
 Lecture 11: "Introduction to Statistics and ML method" 
 (basic statistics, random samples, robust statistics, the maximum likelihood method)  
@@ -20,7 +20,7 @@ Afternoon Activity 6:
 
 -----------------------------------------------------------------------------
 
-*** Tuesday *** 
+Tuesday 
  
 Lecture 13: Introduction to Regression
 (beyond ordinary LSQ: measurement errors, errors in both variables, linear basis function
@@ -34,7 +34,7 @@ Afternoon Activity 7:
   
 -----------------------------------------------------------------------------
 
-*** Wednesday *** 
+Wednesday
 
 Lecture 15: Density Estimation
 (searching for Structure in 1-D Point Data, Gaussian Mixture Models, Extreme Deconvolution,
