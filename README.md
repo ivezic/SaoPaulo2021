@@ -64,4 +64,15 @@ Tree model; supervised classification of periodic variable stars in multi-dimens
 colors and lightcurve parameters)
 -----------------------------------------------------------------------------
 
+Friday 
 
+Lecture 19: Big Data Challenges from LSST
+Big Data from Rubin Observatory's Legacy Survey of Space and Time (keynote slides)
+   
+Lecture 20: Classification of Astronomical Images with Deep Learning
+Introduction to basic concepts and an example based on CNN (ResNet50)
+  
+Afternoon Activity 10: 
+review of lectures and discussion of term projects.
+-----------------------------------------------------------------------------
+ 
