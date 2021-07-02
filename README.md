@@ -1,4 +1,4 @@
-# SaoPaulo2021
+# Sao Paulo, July 19-23, 2021
 Materials for the 2021 data science class at the University of Sao Paulo (week 2)
 
 To clone: git clone git@github.com:ivezic/SaoPaulo2021.git
@@ -6,7 +6,7 @@ To clone: git clone git@github.com:ivezic/SaoPaulo2021.git
 ---------------------------------------------------------------------- 
 === Lectures (ipython notebooks, available from subdirectory notebooks/ above) ===     
  
-Monday 
+**Monday**
 
 Lecture 11: "Introduction to Statistics and ML method" 
 (basic statistics, random samples, robust statistics, the maximum likelihood method)  
@@ -16,9 +16,10 @@ Lecture 12: "Introduction to Bayesian Statistics"
 
 Afternoon Activity 6: 
 (robust statistics and histogram comparison, binomial distribution, Bayesian Blocks)   
+
 -----------------------------------------------------------------------------
 
-Tuesday 
+**Tuesday** 
  
 Lecture 13: Introduction to Regression
 (beyond ordinary LSQ: measurement errors, errors in both variables, linear basis function
@@ -29,9 +30,10 @@ Lecture 14: Time Series Analysis
  
 Afternoon Activity 7: 
 (model comparison for polynomials, Bayesian blocks, model comparison with two bursts) 
+
 -----------------------------------------------------------------------------
 
-Wednesday
+**Wednesday**
 
 Lecture 15: Density Estimation
 (searching for Structure in 1-D Point Data, Gaussian Mixture Models, Extreme Deconvolution,
@@ -45,9 +47,10 @@ Afternoon Activity 8:
  using Gaussian Mixture Model, and BIC to study the impact of sample size and measurement
  errors on ability to recognize structure in data, Principal Component Analysis on LINEAR 
  dataset with 4-dimensional visualization) 
+
 -----------------------------------------------------------------------------
 
-Thursday 
+**Thursday** 
 
 Lecture 17: Clustering (Unsupervised Classification) 
 (introduction to clustering, unsupervised vs. supervised classification, 1-D hypothesis testing,
@@ -62,9 +65,10 @@ Afternoon Activity 9:
 (clustering of orbital data for asteroids using Gaussian Mixture Model and the Minimum Spanning 
 Tree model; supervised classification of periodic variable stars in multi-dimensional space of 
 colors and lightcurve parameters)
+
 -----------------------------------------------------------------------------
 
-Friday 
+**Friday**  (postponed to Monday, August 23) 
 
 Lecture 19: Big Data Challenges from LSST
 Big Data from Rubin Observatory's Legacy Survey of Space and Time (keynote slides)
@@ -74,5 +78,6 @@ Introduction to basic concepts and an example based on CNN (ResNet50)
   
 Afternoon Activity 10: 
 review of lectures and discussion of term projects.
+
 -----------------------------------------------------------------------------
  
