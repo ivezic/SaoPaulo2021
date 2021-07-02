@@ -3,9 +3,11 @@ Materials for the 2021 data science class at the University of Sao Paulo (week 2
 
 To clone: git clone git@github.com:ivezic/SaoPaulo2021.git
 
----------------------------------------------------------------------- 
-Lectures (ipython notebooks) are available from subdirectory notebooks: 
+Lectures (ipython notebooks and one keynote file for Lecture 19) are available 
+from subdirectory notebooks: 
 https://github.com/ivezic/SaoPaulo2021/tree/main/notebooks   
+
+---------------------------------------------------------------------- 
  
 **Monday**
 
