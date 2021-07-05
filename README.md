@@ -74,7 +74,7 @@ colors and lightcurve parameters)
 **Friday**  (postponed to Monday, August 23) 
 
 Lecture 19: Big Data Challenges from LSST
-Big Data from Rubin Observatory's Legacy Survey of Space and Time (keynote slides)
+Big Data from Rubin Observatory's Legacy Survey of Space and Time (powerpoint and keynote slides)
    
 Lecture 20: Classification of Astronomical Images with Deep Learning
 (introduction to basic concepts and an example based on CNN ResNet50)
